@@ -147,7 +147,7 @@ MIT License
 
 Copyright (c) 2025 Demidov Dmitry Anatolyevich (dr1m)
 
-Permission is granted for free use, copying, modification, merging, publishing, distribution, sublicensing, and/or selling copies of the Software.
+- Permission is granted for free use, copying, modification, merging, publishing, distribution, sublicensing, and/or selling copies of the Software.
 
 ⭐ Support the Project
 If this project has been useful to you, please give it a star on GitHub!
